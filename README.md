@@ -9,5 +9,5 @@ Identify the regions where the algorithm would be invoked and how symmetry could
 Implement the same using OpenGL.
 
 Assignment 2 Brief:
-Create a walking robot with the given object heirarchy, out of cubes and cuboids.
-Use 'f' for forward walk, 'b' for backward walk and 'w' to switch from filled to wireframe mode and 'f' for vice versa.
+Create a walking robot with the given object hierarchy, out of cubes.
+Use 'f' for forward walk, 'b' for backward walk and 'w' to switch from filled to wire-frame mode and 'f' for vice versa.
